@@ -70,7 +70,7 @@ public class BouncingBall extends JFrame implements Runnable, MouseListener{
             balls[i].moveBall();    
         }
     }
-    // Self Explanatory.
+  
     public void run() {
         try {
  
